@@ -1,0 +1,8 @@
+//server
+nodemon server.js
+//react app
+npm start
+//api to ad product, to ad product go to backend-> data.js and add product and users and hit enter in the below api link to add product
+http://localhost:4000/api/seed
+//video
+Build MERN-Stack ECommerce Website Like Amazon For Beginners [2022]
