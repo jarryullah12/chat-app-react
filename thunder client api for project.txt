@@ -1,0 +1,44 @@
+//add room there are hotel id is used
+http://localhost:8800/api/rooms/659904f22b549ddfa9495ef5
+{
+ 
+  "price":100,
+  "maxPeople":5,
+  "title":"luxury room",
+  "desc":"abc",
+  "roomNumbers":[{ "number": 101}, {"number": 102}]
+
+}
+http://localhost:8800/api/auth/login
+
+ 
+  {
+   "username":"hamza",
+  "password":"123"
+
+  
+}
+http://localhost:8800/api/auth/register
+{
+"username": "hamza",
+    "email": "hamza@gmail.com",
+    "country": "pak",
+    "img": "asd",
+    "city": "asd",
+    "phone": "1122",
+    "isAdmin": false
+}
+http://localhost:8800/api/hotels
+{
+ 
+    "name": "saeed",
+    "type": "saeed@gmail.com",
+    "city": "pak",
+    "distance": "pak",
+    "address": "asd",
+    "photos": "asd",
+    "title": "asd",
+    "desc": "1122",
+    "cheapestPrice": 100
+  
+}
