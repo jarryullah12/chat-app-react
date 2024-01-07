@@ -1,0 +1,4 @@
+video
+https://www.youtube.com/watch?v=qdZYHbg72WQ
+db is .env name and password
+and connection string is connection.js
