@@ -1,3 +1,4 @@
+
 //server
 nodemon server.js
 //react app
@@ -6,3 +7,8 @@ npm start
 http://localhost:4000/api/seed
 //video
 Build MERN-Stack ECommerce Website Like Amazon For Beginners [2022]
+
+//for json web token generate
+https://www.javainuse.com/jwtgenerator
+
+JWT_SECRET="eyJhbGciOiJIUzI1NiJ9.eyJwYXNzd29yZCI6IkBQYWtpc3RhbjEyMyIsImVtYWlsIjoiamFycnl1bGxhaDQ2QGdtYWlsLmNvbSJ9.wASgbG26Arif-aAnjpw7TuItjwOJ4HIoOVY3X6pW9yY"
