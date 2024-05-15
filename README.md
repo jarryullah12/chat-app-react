@@ -5,6 +5,6 @@ go into backend folder and start backend server e.g. nodemon server.js or node s
 and also go in frontend folder and start frontend server e.g. npm start
 
 another mern crud
-https://www.youtube.com/watch?v=fRkVmnc-gK4&list=PL-LRDpVN2fZA-1igOQ6PDcqfBjS-vaC7w&index=4&ab_channel=CodingwithRobby
+https://www.youtube.com/watch?v=axM8zjaJi74&list=PLZdBNNxWmMHgafU7rDMiRXg95uYfgAnD2&index=1&ab_channel=THEWEBDESIGNER
 
-https://github.com/coding-with-robby/mern-crud-4
+[https://github.com/coding-with-robby/mern-crud-4](https://github.com/amolkapadi/REACTNODECRUD/blob/main/backend/index.js)
